@@ -26,4 +26,17 @@ You are a black ops sniper, specializing in assassination. You were tasked to as
 You feel your arms and legs broken, you try to move them but sharp pain makes you scream out loud. You realize you're stuck under some concrete rubble and if you don't get out of here soon, the target will kill everyone in the assault force.
 
 > You jump out of the rubble.
-You scream in pain as you try to jump up and out of the rubble, hoping your legs can support your weight. You jump up and out of the rubble, leaving a bloody trail behind you as you drag yourself away from the wreckage.> You look around.You are outside a nondescript warehouse, a few hundred meters away from you is the target house, heavily fortified and with visible sniper positions. Your sniper rifle was lost in the crash and your pistol was lost in the crash, you are carrying an MP-5 machine gun and a combat knife.
+You scream in pain as you try to jump up and out of the rubble, hoping your legs can support your weight. You jump up and out of the rubble, leaving a bloody trail behind you as you drag yourself away from the wreckage.> You look around.You are outside a nondescript warehouse, a few hundred meters away from you is the target house, heavily fortified and with visible sniper positions. Your sniper rifle was lost in the crash and your pistol was lost in the crash, you are carrying an MP-5 machine gun and a combat knife.Generating story...You are Jeff, a scientist trying to survive in a world filled with infected zombies everywhere. You have a backpack and a solar-powered tablet. You pound your fist on the table angry that you still haven't found the cure to the infection. You turn to your assistant and say "Did we test that last batch of vaccines yet?" She says "Yes, they were tested on the chimpanzees and they all died. I'm sorry." You say "Well, we need to try something because we are running out of time!"
+
+> You arnold.
+You are a black ops sniper, specializing in assassination. You were tasked to assassinate the target before the main assault force even landed but somehow the target identified your patrol and wiped it out with an IED, leaving you unconscious and trapped under rubble.
+
+> You try to climb out of the rubble.
+You feel your arms and legs broken, you try to move them but sharp pain makes you scream out loud. You realize you're stuck under some concrete rubble and if you don't get out of here soon, the target will kill everyone in the assault force.
+
+> You jump out of the rubble.
+You scream in pain as you try to jump up and out of the rubble, hoping your legs can support your weight. You jump up and out of the rubble, leaving a bloody trail behind you as you drag yourself away from the wreckage.
+
+> You look around.
+You are outside a nondescript warehouse, a few hundred meters away from you is the target house, heavily fortified and with visible sniper positions. Your sniper rifle was lost in the crash and your pistol was lost in the crash, you are carrying an MP-5 machine gun and a combat knife.> You sneak into the target house.You decide to move into the target house through the cellar, it would be a perfect place for a trap but you have no choice.
+The trap is indeed there and you spring it but not before you take out three enemy combatants in hand to hand combat.
