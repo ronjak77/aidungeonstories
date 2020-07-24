@@ -1,0 +1,105 @@
+You are Jeff the Mercenary Courier, a survivor trying to survive in a post apocalyptic world by scavenging among the ruins of what is left. You have a backpack and a canteen. You haven't eaten in two days so you're desperately searching for food. You enter a rundown building and search the lower floors. You find lots of bottles of: Windex, Clorox, Liquid Plumbr, and Pine-Sol, but nothing to eat.
+You climb upstairs hoping to find something there and come across a dead body.
+
+> You kick the body carefully.
+You don't want to get too close to the body in case it's a trap.
+Suddenly the corpse's arm shoots out and grabs your leg!
+You try to pull free, but it holds on tight as other arms emerge from the floor and start grabbing you.
+You rip the arm off your leg and try to escape but you can't fight them off.
+
+> You attack again, this time fighting for your life.
+You kick and punch at the corpses trying to rip you apart.
+Eventually they kill you and eat your flesh.
+Suddenly you wake up from a dream. It was only a dream. You're safe at home in your bed, just another nightmare to add to your ever growing collection. You live in a small apartment on the outskirts of town, your rent paid for by your parents who are the only ones that care about you anymore.
+
+> You go find your next task from the announcement board.
+You leave the food search behind and head to the nearest terminal. You've downloaded a few games that you like to play on it, like old DOS games since you don't have the memory or attention span for them anymore. Your favorite is "The Last Gladiator"
+
+> You look up news.
+You head to the main city screen and click on the "news" category. You see a lot of political stuff that's irrelevant as well as a few video clips.
+
+> You see if there's any courier jobs available on the job board.
+You look through the job board, but nothing really stands out as something you'd like to do.
+
+> You go explore the city with your friend Mike.
+You leave the terminal and head out of the main city screen, to where you see a lot of people walking around. You bump into your friend Mike as you're distracted by the sights.
+"Hey, what's up?" he asks.
+
+> You select one.
+"I dunno, I'm just wandering around. You seen anything interesting?" you say.
+"Just the usual," he replies. "There's a big match between two gladiator robots in an hour, at the coliseum. You in?"
+You nod your head.
+
+> You say "I just had the weirdest dream!"
+You talk to Mike about your dream and how real it felt.
+"What do you think it means?" you ask.
+"It means you should eat more protein," Mike replies. "So are you in or not?"
+
+> You go see the gladiator fight with Mike.
+You head to the coliseum and get some snacks. The match starts soon.
+"Welcome everyone to the coliseum!" the announcer says.
+
+> You ask to become a participant.
+You stand up and yell to the announcer that you want to become a participant.
+"Sorry, we're not accepting applications right now," the announcer says. "But if you want to bet, Pluto and Solaris are the two gladiators fighting!"
+
+> You bet all your savings on Solaris.
+You give all your savings to the teller.
+"You want a receipt?" she asks.
+"No, just give all my savings to Solaris," you say.
+The two gladiators enter the arena and you watch intently as the announcer talks about their previous fights.
+
+> You sneak into the pit.
+You find a small hole and crawl into the gladiator pit.
+"And now, the main event! Introducing, in the blue corner, we have Solaris! He is an expert at dodging and blocking, he's a defensive warrior!" the announcer says.
+
+> You sneak into position to intercept Pluto.
+You find a good position to intercept Pluto, and wait for the fight to start.
+"And in the red corner, we have Pluto! An expert at offense and strength, he's an aggressive warrior!"
+"Pluto has the clear advantage," Mike says.
+
+> You throw some sand into the air to block Pluto's view.
+You throw sand into the air, and suddenly Pluto's vision is obscured.
+"The fight has been interrupted! The fight has been interrupted!" the announcer says. "Referees, clean the arena!"
+The sand is cleaned up, and you're teleported out of the pit.
+
+> You ask for a refund of your money, since the fight was cancelled.
+You ask for a refund of your money, and you get all your savings back.
+"The match was cancelled, so you can have your savings back," the teller says.
+
+> You ask him if there's other duels.
+You ask him if there's other duels, and he says that there is.
+
+> You wait for another gladiator duel to start, then go into the pit and fight them both.
+You wait for another gladiator fight to start, and then jump into the pit.
+"Hey, get out of there!" a referee says, pulling you out.
+"But I want to fight!" you say.
+"We don't need any extra participants," the referee says.
+
+> You ask him for suggestions to improve your fighting style.
+"Well, do you want to focus on strength, speed or defense?" he asks.
+"I don't know anything about this," you say. "I just moved here."
+"I suggest you train in different types of combat to find your niche," the ref says.
+
+> You jump into the pit when he's not looking.
+You jump into the pit and run after a referee.
+"Hey, that's not allowed!" he says, pulling you out.
+"But I want to fight!" you say.
+"We don't need any extra participants," the referee says.
+
+> You gather up a gang of people to start a fist fight outside.
+You go out and start a fist fight.
+"Come on, let's finish this outside," you say.
+"Alright, let's go," Mike says.
+You walk outside and continue the fight.
+"Is this it?" a spectator says. "I was expecting something more."
+
+> You start accepting bets and make some money.
+You make a lot of money from betting on the fight.
+"There's no shortage of people who are willing to throw away their money," you say.
+"I've seen bigger fights," the spectator says.
+
+> You recruit bodyguards from the toughest fighters.
+You find a gang of fighters, and hire the toughest-looking ones as bodyguards.
+"We're supposed to guard you from other people, not you from yourself," your new head bodyguard says.
+"They can try if they want, but I'm ready,"
