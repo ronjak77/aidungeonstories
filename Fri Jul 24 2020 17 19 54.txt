@@ -1,0 +1,11 @@
+Pick a setting...
+1) fantasy (recommended)
+2) mystery
+3) apocalyptic
+4) zombies
+5) cyberpunk
+6) custom
+7) archiveSelect a character...
+1) patient
+2) detective
+3) spyEnter your character's name...Generating story...You are Mike, a spy living in Chicago. You have a concealed pistol and a syringe of poison. You listen to the Russian diplomats and hear them discussing plans for the assassination of the King of France. If you can kill them and escape, you can prevent the assassination, which will stop a world war.Generating story...You are Mike, a spy living in Chicago. You have a concealed pistol and a syringe of poison. You listen to the Russian diplomats and hear them discussing plans for the assassination of the King of France. If you can kill them and escape, you can prevent the assassination, which will stop a world war.Generating story...You are Mike, a spy living in Chicago. You have a concealed pistol and a syringe of poison. You listen to the Russian diplomats and hear them discussing plans for the assassination of the King of France. If you can kill them and escape, you can prevent the assassination, which will stop a world war.Generating story...You are Mike, a spy living in Chicago. You have a concealed pistol and a syringe of poison. You listen to the Russian diplomats and hear them discussing plans for the assassination of the King of France. If you can kill them and escape, you can prevent the assassination, which will stop a world war.

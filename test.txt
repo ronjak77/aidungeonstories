@@ -1,0 +1,44 @@
+You are Mike, a noble living in the kingdom of Larion. You have a pouch of gold and a small dagger. You are awakened by one of your servants who tells you that your keep is under attack. You look out the window and see a horde of green skinned monsters with numerous eyes charging at the walls. You quickly dress and order your servants to warn the guards and send all civilians to safety in the dungeons.
+
+> You go out.
+You tell your servants to evacuate the civilians and guards to safety, then run out of your room to the staircase. As you descend the stairs, you are shocked to see the number of corpses strewn across the ground.
+
+> You get a weapon from the dead body.
+You run down the rest of the stairs and come to a hallway. There is a large group of corpses, mostly guards. You quickly search the bodies and find a weapon of some sort.
+
+> You light a torch on the wall.
+As you're searching the bodies, you notice there are torches on the walls. You grab a torch and light it from the nearest wall.
+You see a corridor to your left.
+
+> You go to left.
+As you head down the left corridor, you see a massive horde of demons running at you from the right. You quickly turn and fight them off with your new torch.
+You notice the horde is much larger than the one from before. You also notice there is a slight change in their color. While they still have that greenish tint, you notice there are less of them.
+
+> You ask if they want to talk.
+You say, "Hey."
+They seem agitated and begin making loud growling noises. You are frightened and take a step back.
+One of them barks a command at the other demons and they all charge you.
+
+> You try to escape.
+You turn and run down the corridor. The large group of demons quickly gives chase.
+You manage to escape and make it back to your chamber. You lock the door, but they quickly batter their way in.
+
+> You climb on the roof to see if there's a way out.
+You quickly head to the roof and climb up the ladder. You pull yourself up and sit on the roof. You notice a large city nearby.
+
+> You descend from the roof sneakily.
+You slowly begin to climb down the ladder, but as soon as your head is about halfway down, you hear a loud noise. You feel the ladder shake and sway slightly.
+
+> You try to do a parkour roll.
+You quickly try to do a parkour roll down the ladder.
+You succeed in rolling down the rest of the ladder, but as you hit the bottom, the noise you heard was your ladder breaking.
+
+> You head towards the city as fast as you can.
+You run towards the city and notice that the area around you is slightly quieter than the rest of the battlefield. You approach a small group of survivors and ask them about the cause of all the noise you heard.
+
+> You explain them that there are enemies incoming.
+You explain to them that there are enemies incoming.
+One of them tells you they are from the Craxil, a powerful lord who commands an army of demons.
+
+> You say "Do you know more about the enemies?"
+They tell you that the demons come from the direction of the small village they were previously attacking.

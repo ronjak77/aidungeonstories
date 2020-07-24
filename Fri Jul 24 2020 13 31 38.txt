@@ -1,0 +1,8 @@
+Pick a setting...
+1) fantasy (recommended)
+2) mystery
+3) apocalyptic
+4) zombies
+5) cyberpunk
+6) custom
+7) archive

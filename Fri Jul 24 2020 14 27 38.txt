@@ -1,0 +1,4 @@
+Select a character...
+1) patient
+2) detective
+3) spy
